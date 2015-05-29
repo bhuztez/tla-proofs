@@ -16,3 +16,6 @@ hyperbook/
 
 papers/
   Examples taken from papers
+
+examples/
+  Examples taken from TLAPS examples
